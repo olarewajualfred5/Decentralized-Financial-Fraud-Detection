@@ -7,3 +7,5 @@ O
 contracts/alert-management.clar,8/6/8614a233af464fde2547e6d7f9894c68a07e2c78
 U
 %contracts/investigation-tracking.clar,4/d/4d2eda8ee952874415e8ac601521b88af8aa1c1a
+U
+%contracts/transaction-monitoring.clar,e/5/e52b2d864e32c11b786b77dc21daae18b0b2fa39
